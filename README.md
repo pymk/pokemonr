@@ -9,17 +9,17 @@ This package allows you to get some structured data from the "PokeAPI" API servi
 
 ## Installation
 
-You can install the development version of pokemonr from GitHub by forking [the pokemonr branch](https://github.com/pymk/R/tree/master/pokemonr) and installing with:
+You can install `pokemonr` from GitHub:
 
-``` r
-install.packages(".", repos = NULL, type="source")
+```R
+devtools.install_github("pymk/pokemonr")
 ```
 
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
 
-``` r
+```R
 library(pokemonr)
 
 get_pokemon("mew")
