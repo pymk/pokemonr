@@ -1,0 +1,10 @@
+pandoc: '2.18'
+pkgdown: 2.0.4
+pkgdown_sha: ~
+articles:
+  examples: examples.html
+last_built: 2022-06-13T03:14Z
+urls:
+  reference: http://pymk.dev/R/reference
+  article: http://pymk.dev/R/articles
+
