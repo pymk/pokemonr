@@ -6,7 +6,8 @@ Version: 0.0.1.0
 Author: person("pymk", email = "github@ok.mozmail.com", role = c("aut", "cre"))
 Maintainer: pymk <github@ok.mozmail.com>
 URL: https://github.com/pymk/,
-    http://pymk.dev/R/
+    http://pymk.dev/R/,
+    http://pymk.dev/pokemonr/
 License: MIT + file LICENSE
 Encoding: UTF-8
 Imports: 
