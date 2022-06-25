@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://pymk.dev/pokemonr/404.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/LICENSE-text.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/articles/examples.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/articles/index.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/authors.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/index.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/reference/get_pokemon.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/reference/index.html</loc>
+  </url>
+  <url>
+    <loc>http://pymk.dev/pokemonr/reference/pipe.html</loc>
+  </url>
+</urlset>
