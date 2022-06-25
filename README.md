@@ -11,7 +11,7 @@ This package allows you to get some structured data from the "PokeAPI" API servi
 
 You can install `pokemonr` from GitHub:
 
-```R
+``` r
 devtools.install_github("pymk/pokemonr")
 ```
 
@@ -19,7 +19,7 @@ devtools.install_github("pymk/pokemonr")
 
 This is a basic example which shows you how to solve a common problem:
 
-```R
+``` r
 library(pokemonr)
 
 get_pokemon("mew")
