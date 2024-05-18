@@ -12,7 +12,7 @@ This package allows you to get some structured data from the "PokeAPI" API servi
 You can install `pokemonr` from GitHub:
 
 ``` r
-devtools.install_github("pymk/pokemonr")
+devtools::install_github("pymk/pokemonr")
 ```
 
 ## Example
